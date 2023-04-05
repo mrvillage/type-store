@@ -2,5 +2,11 @@
 name = "type-store"
 version = "0.1.0"
 edition = "2021"
+description = "type-store is a simple, lightweight library for storing values in a map by type, aka a type map."
+license = "MIT"
+repository = "https://github.com/mrvillage/type-store"
+documentation = "https://docs.rs/type-store"
+readme = "README.md"
+
 
 [dependencies]
